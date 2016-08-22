@@ -1,5 +1,7 @@
 # Akka data source for dstream (Spark Streaming)
 
+\*NOTE: This project is in the process of being migrated to [Apache Bahir](https://github.com/apache/bahir). Please direct any questions and contributions there!
+
 A library for reading data from Akka Actors to [Spark Streaming](http://spark.apache.org/docs/latest/streaming-programming-guide.html).
 
 [![Build Status](https://travis-ci.org/spark-packages/dstream-akka.svg?branch=master)](https://travis-ci.org/spark-packages/dstream-akka)
